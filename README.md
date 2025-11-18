@@ -1,1 +1,1 @@
-# Proxy-Based load balancing with Adaptive Decision Engine
+# Proxy-Based Load Balancer with Adaptive Decision Engine
